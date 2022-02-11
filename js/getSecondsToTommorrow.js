@@ -1,5 +1,5 @@
 /*
- * Write a function that returns the number of seconds left until midnight. The function should work on any day, e.i. it should not matter today's date.
+ * Write a function that returns the number of seconds left until midnight. The function should work on any day, i.e. it should not matter today's date.
  */
 
 function getSecondsToTomorrow() {
