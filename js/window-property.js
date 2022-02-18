@@ -1,3 +1,7 @@
+/*
+ * !!!Works only in non-strict mode!!!
+ */
+
 (() => {
   let x = (y = 10);
 })();
