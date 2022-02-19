@@ -1,0 +1,26 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  },
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel -p 2020 --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miklukha/learning-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miklukha/learning-js/issues"
+  },
+  "homepage": "https://github.com/miklukha/learning-js#readme"
+}

@@ -7,7 +7,7 @@ const liveArray = document.getElementsByClassName('id1');
 console.log(AllLi);
 console.log(liveArray);
 
-ul.insertAdjacentHTML('beforeend', `<li class='id1'> </li>`);
+ul.insertAdjacentHTML('beforeend', `<li class='id1'></li>`);
 
 console.log(AllLi);
 console.log(liveArray);
