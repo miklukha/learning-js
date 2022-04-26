@@ -118,3 +118,111 @@ function b (){
 
 b();
 */
+
+/* 16.
+const s1 = ['a', 'b', 'c'];
+const s2 = ['d', 'e', 'f'];
+
+const result = s1.concat(s2).join('+');
+
+console.log(result); // a+b+c+d+e+f
+ */
+
+/* 17.
+    <div id="parent" style="width: 200px; height: 200px; background-color: blueviolet; ">
+      <div id="child" style="width: 50px; height: 50px; margin:auto; padding: auto; background-color: aqua;"></div>
+    </div>
+ */
+
+/* 18.
+const meetups = [
+  { name: 'JavaScript', isActive: true, members: 100 },
+  { name: 'Angular', isActive: true, members: 900 },
+  { name: 'Node', isActive: false, members: 600 },
+  { name: 'React', isActive: true, members: 500 },
+];
+
+const membersOnActiveMeetups = meetups =>
+  meetups
+    .filter(meetup => meetup.isActive)
+    .reduce((sum, meetup) => sum + meetup.members, 0);
+
+console.log(membersOnActiveMeetups(meetups)); // 1500
+ */
+
+/* 19.
+ Что записывается в свойство [[Scope]] функции? // Текущий LexicalEnvironment или window
+
+ function foo2() {
+  function foo() {
+    console.log(1);
+  }
+
+  foo();
+  console.dir(foo);
+};
+
+  var color = 'green';
+  function outputColor() {
+    function displayColor() {
+      console.log(color);
+    }
+    displayColor(); // "green"
+  }
+  outputColor();
+
+  console.dir(outputColor);
+  */
+
+/* 22.
+var obj = {
+  a: () => {
+    console.log(this.prop);
+  },
+  prop: 1,
+};
+
+obj.a();
+var fn = obj.a.bind(obj);
+fn(); // undefined, undefined
+*/
+
+/* 23. 
+const obj = {
+  x: 10,
+  y: 20,
+  z: 30,
+};
+
+const result = Object.values(obj); // [10, 20, 30]
+
+console.log(result);
+*/
+
+/* 27
+class GOBListener {
+  constructor() {
+    this.counter = 0;
+  }
+
+  handleClick() {
+    this.counter += 1;
+    console.log(this.counter);
+  }
+}
+
+const element = document.querySelector('button');
+const listener = new GOBListener();
+
+element.addEventListener('click', listener.handleClick); // NaN, NaN, NaN
+
+// element.addEventListener('click', function () {
+//   listener.handleClick();
+// });
+*/
+
+/* 30.
+let a = 10;
+a.b = 10;
+console.log(a); // 10
+*/

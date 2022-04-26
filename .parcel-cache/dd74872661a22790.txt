@@ -23,7 +23,7 @@
 100D:\Anya\Desktop\my project\learning-js\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
 93D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\flexbox-gap.js121436361000000000 0
 86D:\Anya\Desktop\my project\learning-js\node_modules\svgo\plugins\convertShapeToPath.js121436361000000000 0
-43D:\Anya\Desktop\my project\learning-js\dist132951967742253603 1
+43D:\Anya\Desktop\my project\learning-js\dist132954617463784008 1
 86D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\core\src\InternalConfig.js121436361000000000 0
 70D:\Anya\Desktop\my project\learning-js\node_modules\is-json\.npmignore130425903440000000 0
 96D:\Anya\Desktop\my project\learning-js\node_modules\css-select\lib\pseudo-selectors\filters.d.ts121436361000000000 0
@@ -63,7 +63,7 @@
 86D:\Anya\Desktop\my project\learning-js\node_modules\entities\lib\decode_codepoint.d.ts121436361000000000 0
 69D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\graph\src132897324862682776 1
 61D:\Anya\Desktop\my project\learning-js\node_modules\lmdb\util132897324870830992 1
-53D:\Anya\Desktop\my project\learning-js\src\index.html132951920366755140 0
+53D:\Anya\Desktop\my project\learning-js\src\index.html132954601848188668 0
 79D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\utils\src\is-url.js121436361000000000 0
 73D:\Anya\Desktop\my project\learning-js\node_modules\colord\plugins\xyz.js121436361000000000 0
 73D:\Anya\Desktop\my project\learning-js\node_modules\csso\dist\csso.min.js121436361000000000 0
@@ -72,7 +72,7 @@
 100D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\package-manager\test\fixtures\packages\a132897324867968663 1
 91D:\Anya\Desktop\my project\learning-js\node_modules\@swc\helpers\lib\_async_to_generator.js132811082760000000 0
 76D:\Anya\Desktop\my project\learning-js\node_modules\postcss-minify-selectors132897324972103484 1
-61D:\Anya\Desktop\my project\learning-js\src\js\30-questions.js132951967739287512 0
+61D:\Anya\Desktop\my project\learning-js\src\js\30-questions.js132954617462182662 0
 67D:\Anya\Desktop\my project\learning-js\node_modules\xxhash-wasm\umd132897324853688521 1
 64D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite132897324961895400 1
 71D:\Anya\Desktop\my project\learning-js\node_modules\stable\package.json132897324972758982 0
@@ -3452,7 +3452,7 @@
 98D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-nth-child-of.js121436361000000000 0
 93D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-opacity.js121436361000000000 0
 101D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-optional-pseudo.js121436361000000000 0
-61D:\Anya\Desktop\my project\learning-js\dist\index.876bdb65.js132951967742193747 0
+61D:\Anya\Desktop\my project\learning-js\dist\index.876bdb65.js132954617463754089 0
 101D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-overflow-anchor.js121436361000000000 0
 102D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-overflow-overlay.js121436361000000000 0
 94D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\css-overflow.js121436361000000000 0
@@ -4138,7 +4138,7 @@
 92D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\reporter-cli\src\bundleReport.js121436361000000000 0
 85D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\reporter-cli\src\emoji.js121436361000000000 0
 89D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\reporter-cli\src\logLevels.js121436361000000000 0
-65D:\Anya\Desktop\my project\learning-js\dist\index.876bdb65.js.map132951967742233637 0
+65D:\Anya\Desktop\my project\learning-js\dist\index.876bdb65.js.map132954617463774887 0
 85D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\reporter-cli\src\utils.js121436361000000000 0
 95D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map121436361000000000 0
 70D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\plugin\lib132897324851783597 1
@@ -4518,7 +4518,7 @@
 65D:\Anya\Desktop\my project\learning-js\dist\index.729a4c9f.js.map132945905690355360 0
 62D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css132945896612267991 0
 66D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css.map132945896612267991 0
-54D:\Anya\Desktop\my project\learning-js\dist\index.html132951967367731568 0
+54D:\Anya\Desktop\my project\learning-js\dist\index.html132954615373804922 0
 69D:\Anya\Desktop\my project\learning-js\dist\html\classes.205ba48f.css132897350119871953 0
 73D:\Anya\Desktop\my project\learning-js\dist\html\classes.205ba48f.css.map132897350119881935 0
 72D:\Anya\Desktop\my project\learning-js\dist\html\classes.aacbe6de.js.map132897350119822076 0
