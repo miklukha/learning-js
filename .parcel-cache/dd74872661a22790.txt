@@ -37,7 +37,7 @@
 100D:\Anya\Desktop\my project\learning-js\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
 93D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\flexbox-gap.js121436361000000000 0
 86D:\Anya\Desktop\my project\learning-js\node_modules\svgo\plugins\convertShapeToPath.js121436361000000000 0
-43D:\Anya\Desktop\my project\learning-js\dist132974672916291368 1
+43D:\Anya\Desktop\my project\learning-js\dist133018372389685958 1
 86D:\Anya\Desktop\my project\learning-js\node_modules\@parcel\core\src\InternalConfig.js121436361000000000 0
 70D:\Anya\Desktop\my project\learning-js\node_modules\is-json\.npmignore130425903440000000 0
 96D:\Anya\Desktop\my project\learning-js\node_modules\css-select\lib\pseudo-selectors\filters.d.ts121436361000000000 0
@@ -231,7 +231,7 @@
 62D:\Anya\Desktop\my project\learning-js\node_modules\parcel\src132897363945957442 1
 89D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\svg-css.js121436361000000000 0
 96D:\Anya\Desktop\my project\learning-js\node_modules\caniuse-lite\data\features\resizeobserver.js121436361000000000 0
-57D:\Anya\Desktop\my project\learning-js\src\js\training.js132974672915070228 0
+57D:\Anya\Desktop\my project\learning-js\src\js\training.js133018372388029282 0
 65D:\Anya\Desktop\my project\learning-js\src\js\transform-string.js132974644669712947 0
 57D:\Anya\Desktop\my project\learning-js\node_modules\chalk132897324975115260 1
 94D:\Anya\Desktop\my project\learning-js\node_modules\css-tree\lib\syntax\node\MediaQueryList.js121436361000000000 0
@@ -4529,11 +4529,11 @@
 65D:\Anya\Desktop\my project\learning-js\node_modules\.bin\svgo.cmd132897324980620959 0
 67D:\Anya\Desktop\my project\learning-js\node_modules\.bin\terser.ps1132897324980651335 0
 48D:\Anya\Desktop\my project\learning-js\dist\html132897350673828748 1
-61D:\Anya\Desktop\my project\learning-js\dist\index.729a4c9f.js132974672916232741 0
-65D:\Anya\Desktop\my project\learning-js\dist\index.729a4c9f.js.map132974672916261410 0
-62D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css132974669708755647 0
-66D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css.map132974669708755647 0
-54D:\Anya\Desktop\my project\learning-js\dist\index.html132974669709174566 0
+61D:\Anya\Desktop\my project\learning-js\dist\index.729a4c9f.js133018372389606173 0
+65D:\Anya\Desktop\my project\learning-js\dist\index.729a4c9f.js.map133018372389666015 0
+62D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css133018351158663691 0
+66D:\Anya\Desktop\my project\learning-js\dist\index.77a9bc14.css.map133018351158663691 0
+54D:\Anya\Desktop\my project\learning-js\dist\index.html133018351158553982 0
 69D:\Anya\Desktop\my project\learning-js\dist\html\classes.205ba48f.css132897350119871953 0
 73D:\Anya\Desktop\my project\learning-js\dist\html\classes.205ba48f.css.map132897350119881935 0
 72D:\Anya\Desktop\my project\learning-js\dist\html\classes.aacbe6de.js.map132897350119822076 0
